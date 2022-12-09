@@ -1,4 +1,3 @@
-﻿
 *.id.meeting.qq.com
 *.sso.meeting.qq.com
 *.sso.voovmeeting.com
@@ -41,7 +40,8 @@ report.voovmeeting.com
 res.wx.qq.com
 sngapm.qq.com
 source.meeting.qq.com
-access.prtc.tencent.com
+access.prtc.tencent.com
+
 xcast.netcond.qq.com
 ssl.captcha.qq.com
 ssoapi.meeting.qq.com
@@ -82,7 +82,6 @@ down-30005.sz.gfp.tencent-cloud.com
 wuxiapptec-idp.id.meeting.qq.com
 wuxiapptec-admin.id.meeting.qq.com 
 Wuxiapptec.sso.meeting.qq.com 
-
 cloud-hk.tim.qq.com
 cloudtim.msf.tencent-cloud.com
 accelerator.tencent-cloud.com
@@ -100,4 +99,3 @@ wss.tim.qq.com
 wss.im.qcloud.com
 webtim.msf.tencent-cloud.com
 webtim.tencent-cloud-gslb.com
-
